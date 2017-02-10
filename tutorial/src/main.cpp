@@ -30,7 +30,7 @@ public:
 
 };
 
-int main() {
+int main(int argc, char * argv[]) {
     auto engine = tinto::GameEngine();
     engine.init(800, 600);
 

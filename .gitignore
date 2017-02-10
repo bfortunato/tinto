@@ -1,4 +1,5 @@
-
+.idea
+.DS_Store
 /third-party/build/
 /tutorial/.idea/
 /lib/
